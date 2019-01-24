@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.utils;
+package com.xxx.opengl.es.study.utils;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

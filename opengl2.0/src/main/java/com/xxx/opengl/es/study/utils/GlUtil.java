@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.xxx.opengl.es.androidopengl.utils;
+package com.xxx.opengl.es.study.utils;
 
 import android.graphics.Bitmap;
 import android.opengl.GLES11Ext;

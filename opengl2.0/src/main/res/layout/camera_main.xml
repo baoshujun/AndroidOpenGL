@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".CameraActivity">
 
-    <com.xxx.opengl.es.androidopengl.video.CameraGLSurfaceView
+    <com.xxx.opengl.es.study.video.CameraGLSurfaceView
         android:id="@+id/camera_gl_surface_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>

@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl;
+package com.xxx.opengl.es.study;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
         switch (view.getId()) {
             case R.id.cameraPreview:
                 toActivity(CameraActivity.class);
+                break;
+            case R.id.firstButton:
+                toActivity(FirstActivity.class);
                 break;
         }
     }

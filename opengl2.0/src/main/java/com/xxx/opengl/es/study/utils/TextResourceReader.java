@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.utils;
+package com.xxx.opengl.es.study.utils;
 
 import android.content.Context;
 import android.content.res.Resources;

@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.video.gles;
+package com.xxx.opengl.es.study.video.gles;
 
 import android.graphics.RectF;
 import android.opengl.GLES11Ext;
@@ -6,10 +6,10 @@ import android.opengl.GLES20;
 import android.opengl.Matrix;
 
 
-import com.xxx.opengl.es.androidopengl.MyApplication;
-import com.xxx.opengl.es.androidopengl.R;
-import com.xxx.opengl.es.androidopengl.utils.GlUtil;
-import com.xxx.opengl.es.androidopengl.utils.TextResourceReader;
+import com.xxx.opengl.es.study.MyApplication;
+import com.xxx.opengl.es.study.R;
+import com.xxx.opengl.es.study.utils.GlUtil;
+import com.xxx.opengl.es.study.utils.TextResourceReader;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

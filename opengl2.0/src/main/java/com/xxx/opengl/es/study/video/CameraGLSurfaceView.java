@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.video;
+package com.xxx.opengl.es.study.video;
 
 import android.content.Context;
 import android.graphics.RectF;
@@ -11,10 +11,10 @@ import android.view.MotionEvent;
 import android.view.ViewConfiguration;
 
 
-import com.xxx.opengl.es.androidopengl.utils.DisplayUtil;
-import com.xxx.opengl.es.androidopengl.utils.GlUtil;
-import com.xxx.opengl.es.androidopengl.utils.LOG;
-import com.xxx.opengl.es.androidopengl.video.gles.DirectDrawer;
+import com.xxx.opengl.es.study.utils.DisplayUtil;
+import com.xxx.opengl.es.study.utils.GlUtil;
+import com.xxx.opengl.es.study.utils.LOG;
+import com.xxx.opengl.es.study.video.gles.DirectDrawer;
 
 import java.util.ArrayList;
 import java.util.List;
