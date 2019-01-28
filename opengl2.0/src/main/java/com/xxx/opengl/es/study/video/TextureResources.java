@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.video;
+package com.xxx.opengl.es.study.video;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -7,9 +7,9 @@ import android.graphics.Color;
 import android.graphics.Matrix;
 import android.graphics.Rect;
 
-import com.xxx.opengl.es.androidopengl.MyApplication;
-import com.xxx.opengl.es.androidopengl.R;
-import com.xxx.opengl.es.androidopengl.utils.DisplayUtil;
+import com.xxx.opengl.es.study.MyApplication;
+import com.xxx.opengl.es.study.R;
+import com.xxx.opengl.es.study.utils.DisplayUtil;
 
 
 /**

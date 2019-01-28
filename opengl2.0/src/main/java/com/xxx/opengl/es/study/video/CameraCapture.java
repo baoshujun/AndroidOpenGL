@@ -1,12 +1,12 @@
-package com.xxx.opengl.es.androidopengl.video;
+package com.xxx.opengl.es.study.video;
 
 import android.graphics.SurfaceTexture;
 import android.hardware.Camera;
 import android.view.SurfaceHolder;
 
 
-import com.xxx.opengl.es.androidopengl.utils.CameraUtil;
-import com.xxx.opengl.es.androidopengl.utils.LOG;
+import com.xxx.opengl.es.study.utils.CameraUtil;
+import com.xxx.opengl.es.study.utils.LOG;
 
 import java.io.IOException;
 import java.util.List;

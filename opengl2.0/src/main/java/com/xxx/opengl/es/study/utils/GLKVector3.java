@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.utils;
+package com.xxx.opengl.es.study.utils;
 
 public class GLKVector3 {
     public float x;

@@ -1,4 +1,4 @@
-package com.xxx.opengl.es.androidopengl.video;
+package com.xxx.opengl.es.study.video;
 
 import android.graphics.Bitmap;
 import android.opengl.GLES20;
